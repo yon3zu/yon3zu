@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Arturs
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+### Hi there 👋, my name is Yon3zu
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yon3zu&show_icons=true&theme=radical)
 
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
