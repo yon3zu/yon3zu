@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yuzu
-### I'am A Founder XploitSecurity Team
+I'am The Founder XploitSecurity Team
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yon3zu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yon3zu&layout=compact&theme=radical)](https://github.com/yon3zu/github-readme-stats)
 
