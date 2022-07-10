@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bay
-I'am The Founder XploitSec.ID and LinuXploit <br>
+I am The Founder Of XploitSec.ID and LinuXploit <br>
 My site : <a href="https://xploitsecid.or.id">https://urbayz.com</a><br>
 Blog : <a href="https://linuxploit.com">https://linuxploit.com</a><br>
 Zone-Xsec : <a href="https://zone-xsec.com">https://zone-xsec.com</a><br>
