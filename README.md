@@ -8,7 +8,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://urbayz.com/)**
 
-- 🔭 I’m currently working on `DISKOMINFO Lombok Tengah`.
+- 🔭 I’m currently working on `DISKOMINFO LOMBOK TENGAH`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -62,7 +62,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yon3zu&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yon3zu&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&layout=compact&theme=radical" alt="soumyajit" />
 </div>
 
 <h3 align="left">Languages I Used:</h3>
