@@ -62,3 +62,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yon3zu&layout=compact&theme=radical" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&layout=compact&theme=radical" alt="soumyajit" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=404rgr&label=Profile%20views&color=0e75b6&style=flat" alt="404rgr" /> </p>
