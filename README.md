@@ -1,5 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Bayu Santoso</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yon3zu&label=Profile%20views&color=0e75b6&style=flat" alt="404rgr" /> </p>
+
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
@@ -63,4 +65,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&layout=compact&theme=radical" alt="soumyajit" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404rgr&label=Profile%20views&color=0e75b6&style=flat" alt="404rgr" /> </p>
