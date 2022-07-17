@@ -20,7 +20,9 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
-- 👨‍💻 I'm the founder of XploitSec Team And LinuXploit
+- 👨‍💻 I'm the founder of XploitSec And LinuXploit
+
+- 😎 I like the genre of `pop punk` music, as well as `rock and indie`
 
 ## 🛠️ Technologies and Tools I use:
 
