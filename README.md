@@ -6,8 +6,6 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://urbayz.com/)**
 
-- 🔭 I’m currently working on `DISKOMINFO LOMBOK TENGAH`.
-
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
