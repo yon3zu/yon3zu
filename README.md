@@ -4,7 +4,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://urbayz.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://santosocapital.com/)**
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -16,7 +16,7 @@
 
 - ⚡ I waste most of my time for work in front of computer
 
-- 👨‍💻 I'm the founder of **[XploitSec](https://xploitsec.com/)** And **[LinuXploit](https://linuxploit.com/)**
+- 👨‍💻 I'm the founder of **[XploitSec](https://xploitsec.com/)**, **[LinuXploit](https://linuxploit.com/)**, **[xLabsCloud](https://xlabscloud.com/)**, And **[xReverseLabs](https://xreverselabs.my.id/)**
 
 - 😎 I like the genre of `pop punk` music, as well as `rock and indie`
 
@@ -42,7 +42,7 @@
 
 ## Let's get connected:
 
-<p><a href="https://www.linkedin.com/id/youez_/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://sec.linuxploit.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/yyouez/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="[https://www.linkedin.com/id/youez_/"](https://www.linkedin.com/in/bayu-jumhari-cahyono-s-52424b280/) target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://sec.linuxploit.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/bayujsantoso_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
@@ -50,6 +50,6 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yon3zu&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yon3zu&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&layout=compact&theme=radical" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yon3zu&layout=compact&theme=radical" alt="bayu" />
 </div>
 
