@@ -74,22 +74,6 @@ With a strong focus on cybersecurity, I founded and run several ventures in the 
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-<img src="./dist/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-<!--
-  Animasi ular ini juga di-generate & di-commit sendiri lewat GitHub Actions
-  (Platane/snk) — lihat .github/workflows/snake.yml — jadi tidak bergantung
-  pada server pihak ketiga.
--->
-
----
-
-<div align="center">
-
 *Open to dev collaborations and always interested in a good discussion on competitive programming.*
 
 </div>
