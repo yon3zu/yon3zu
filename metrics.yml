@@ -1,0 +1,18 @@
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # tiap hari jam 00:00 UTC
+  workflow_dispatch:        # bisa dijalankan manual dari tab Actions
+
+jobs:
+  build-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, languages
+          config_timezone: Asia/Jakarta
